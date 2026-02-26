@@ -1,0 +1,8 @@
+PS C:\Users\HEMALATHNA PAVANI\OneDrive\Desktop\perl> perl repilication.pl
+pavani pavani pavani 
+ len of the name:6
+ uppercase  of the name:PAVANI
+ lowercase of the name:pavani
+ first of  uppercase the name:Pavani
+ first of  lowercase the name:pavani
+ substring of the string :vani
